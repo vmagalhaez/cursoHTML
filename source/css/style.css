@@ -1,4 +1,4 @@
-h1 {
+h2 {
     color: red;
 }
 
@@ -19,6 +19,30 @@ h1 {
 .bold {
     font-weight: bolder;
 }
+
+.box1 {
+    background-color: aqua;
+    margin: 8px;
+    padding: 5px;
+}
+
+.box2 {
+    background-color: greenyellow;
+    margin: 8px;
+    padding: 5px;
+}
+
+.box3 {
+    background-color: blueviolet;
+    margin: 8px;
+    padding: 5px;
+}
+
+span {
+    font-weight: bolder;
+}
+
+
 
 
 
