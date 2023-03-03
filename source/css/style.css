@@ -2,6 +2,11 @@ h1 {
     color: red;
 }
 
+.box {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+
 .menu ul {
     display: flex;
 }
@@ -14,4 +19,6 @@ h1 {
 .bold {
     font-weight: bolder;
 }
+
+
 
